@@ -1,31 +1,3 @@
-body {
-    background-color: burlywood;
-}
-
-h1 {
-    color: #2f5a3a;
-}
-
-h2 {
-    color: blue;
-}
-
-a {
-    color: blueviolet;
-}
-
-a:hover {
-    color: cadetblue;
-}
-
-.veryvisibletext {
-    font-size: 1.5rem;
-}
-
-img {
-    width: 500px;
-}
-
 @font-face {
 	font-family: 'Lombardina Initial One';
 	src: url('../fonts/lombardina_initial_one.eot'); /* IE 9 Compatibility Mode */
@@ -34,9 +6,4 @@ img {
 		url('../fonts/lombardina_initial_one.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
 		url('../fonts/lombardina_initial_one.ttf') format('truetype'), /* Safari, Android, iOS */
 		url('../fonts/lombardina_initial_one.svg#lombardina_initial_one') format('svg'); /* Chrome < 4, Legacy iOS */
-}
-
-h3 
-{
-    font-family: 'Lombardina Initial One', sans-serif;
 }
